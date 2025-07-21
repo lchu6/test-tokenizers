@@ -1897,116 +1897,116 @@
       "special": true
     },
     "128237": {
-      "content": "<|reserved_special_token_229|>",
+      "content": "</respond_after_thinking>",
       "lstrip": false,
       "normalized": false,
       "rstrip": false,
       "single_word": false,
-      "special": true
+      "special": false
     },
     "128238": {
-      "content": "<|reserved_special_token_230|>",
+      "content": "</respond_without_thinking>",
       "lstrip": false,
       "normalized": false,
       "rstrip": false,
       "single_word": false,
-      "special": true
+      "special": false
     },
     "128239": {
-      "content": "<|reserved_special_token_231|>",
+      "content": "<documents>",
       "lstrip": false,
       "normalized": false,
       "rstrip": false,
       "single_word": false,
-      "special": true
+      "special": false
     },
     "128240": {
-      "content": "<|reserved_special_token_232|>",
+      "content": "</documents>",
       "lstrip": false,
       "normalized": false,
       "rstrip": false,
       "single_word": false,
-      "special": true
+      "special": false
     },
     "128241": {
-      "content": "<|reserved_special_token_233|>",
+      "content": "<tools>",
       "lstrip": false,
       "normalized": false,
       "rstrip": false,
       "single_word": false,
-      "special": true
+      "special": false
     },
     "128242": {
-      "content": "<|reserved_special_token_234|>",
+      "content": "</tools>",
       "lstrip": false,
       "normalized": false,
       "rstrip": false,
       "single_word": false,
-      "special": true
+      "special": false
     },
     "128243": {
-      "content": "<|reserved_special_token_235|>",
+      "content": "<tool_call>",
       "lstrip": false,
       "normalized": false,
       "rstrip": false,
       "single_word": false,
-      "special": true
+      "special": false
     },
     "128244": {
-      "content": "<|reserved_special_token_236|>",
+      "content": "</tool_call>",
       "lstrip": false,
       "normalized": false,
       "rstrip": false,
       "single_word": false,
-      "special": true
+      "special": false
     },
     "128245": {
-      "content": "<|reserved_special_token_237|>",
+      "content": "<tool_response>",
       "lstrip": false,
       "normalized": false,
       "rstrip": false,
       "single_word": false,
-      "special": true
+      "special": false
     },
     "128246": {
-      "content": "<|reserved_special_token_238|>",
+      "content": "</tool_response>",
       "lstrip": false,
       "normalized": false,
       "rstrip": false,
       "single_word": false,
-      "special": true
+      "special": false
     },
     "128247": {
-      "content": "<|reserved_special_token_239|>",
+      "content": "<think>",
       "lstrip": false,
       "normalized": false,
       "rstrip": false,
       "single_word": false,
-      "special": true
+      "special": false
     },
     "128248": {
-      "content": "<|reserved_special_token_240|>",
+      "content": "</think>",
       "lstrip": false,
       "normalized": false,
       "rstrip": false,
       "single_word": false,
-      "special": true
+      "special": false
     },
     "128249": {
-      "content": "<|reserved_special_token_241|>",
+      "content": "<|start_of_role|>",
       "lstrip": false,
       "normalized": false,
       "rstrip": false,
       "single_word": false,
-      "special": true
+      "special": false
     },
     "128250": {
-      "content": "<|reserved_special_token_242|>",
+      "content": "<|end_of_role|>",
       "lstrip": false,
       "normalized": false,
       "rstrip": false,
       "single_word": false,
-      "special": true
+      "special": false
     },
     "128251": {
       "content": "<|reserved_special_token_243|>",
@@ -2017,36 +2017,36 @@
       "special": true
     },
     "128252": {
-      "content": "<|reserved_special_token_244|>",
+      "content": "<|fim_pad|>",
       "lstrip": false,
       "normalized": false,
       "rstrip": false,
       "single_word": false,
-      "special": true
+      "special": false
     },
     "128253": {
-      "content": "<|reserved_special_token_245|>",
+      "content": "<|fim_prefix|>",
       "lstrip": false,
       "normalized": false,
       "rstrip": false,
       "single_word": false,
-      "special": true
+      "special": false
     },
     "128254": {
-      "content": "<|reserved_special_token_246|>",
+      "content": "<|fim_middle|>",
       "lstrip": false,
       "normalized": false,
       "rstrip": false,
       "single_word": false,
-      "special": true
+      "special": false
     },
     "128255": {
-      "content": "<|reserved_special_token_247|>",
+      "content": "<|fim_suffix|>",
       "lstrip": false,
       "normalized": false,
       "rstrip": false,
       "single_word": false,
-      "special": true
+      "special": false
     }
   },
   "bos_token": "<|begin_of_text|>",
